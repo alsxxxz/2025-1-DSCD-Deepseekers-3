@@ -10,6 +10,10 @@ from googleapiclient.discovery import build
 #예뻐요, 사전 전처리
 #영상부터 거르고
 #외국어 거르기
+<<<<<<< Updated upstream
+=======
+#크롤링 분석 시간도 추가
+>>>>>>> Stashed changes
 
 API_KEY = None  # 실행창에서 입력받음
 
